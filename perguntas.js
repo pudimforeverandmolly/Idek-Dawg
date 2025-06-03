@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Dead by Daylight',
+    'Qual é o objetivo dos sobreviventes?',
+    'Reparar geradores e escapar do mapa.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Dead by Daylight',
+    'O que é a Escotilha (Hatch)?',
+    'Uma saída secreta que aparece quando resta apenas um sobrevivente.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Língua Inglesa',
+    'Qual é o passado do verbo “go”?',
+    'Went.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Língua Inglesa',
+    'Como se diz “amigo” em inglês?',
+    'Friend.'
 )
